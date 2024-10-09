@@ -1,8 +1,5 @@
-I’m @DarkSociety07
-- dark society
 Save yourself from the darkness to get the real life.
 Damn corrupt governments
-- 📫 Telegram channel : https://t.me/dark_society07
 
 <p align='center'>
 <img src="https://readme-typing-svg.demolab.com?font=Bungee+Spice&pause=4000&color=134358&random=false&width=520&lines=Speak+your+mind+even+if+your+voice+shakes!" alt="Typing SVG" /></a>
@@ -26,10 +23,5 @@ Damn corrupt governments
 🥇 My goal is to collaborate with fellow enthusiasts and experts in the exciting realm of AI, contributing to the advancement of this transformative technology.
 
 💞️ Feel free to support my endeavors through donations at:
-   - Ethereum: 0xc177e861fD9a9F598236C7183e105b9CCec9cb3e
-   - Bitcoin: bc1q3230gkphdk5qzsxtj079mz5w35svwrpwq6wh8c
-
-<!---
-AiGptCode/AiGptCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
--->
+   - Trx:
+     TSdGsuFrqNSt2sX7xRTB2b6TLepVcv2RCL
