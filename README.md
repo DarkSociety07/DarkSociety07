@@ -4,10 +4,8 @@ Save yourself from the darkness to get the real life.
 Damn corrupt governments
 - 📫 Telegram channel : https://t.me/dark_society07
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=AIGPTCODE+" alt="Typing SVG" /></a>
-
 <p align='center'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Spice&pause=4000&color=134358&random=false&width=520&lines=Speak+your+mind+even+if+your+voice+shakes!" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Bungee+Spice&pause=4000&color=134358&random=false&width=520&lines=Speak+your+mind+even+if+your+voice+shakes!" alt="Typing SVG" /></a>
 </p>
 
 ---
