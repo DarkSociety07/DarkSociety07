@@ -1,5 +1,5 @@
-Hi, I’m @DarkSociety07
-- 👀 I’m interested in Hacking and security
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate of Tool writing
+I’m @DarkSociety07
+- dark society
+Save yourself from the darkness to get the real life.
+Damn corrupt governments
 - 📫 Telegram channel : https://t.me/dark_society07
